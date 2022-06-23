@@ -1,4 +1,3 @@
 - Undergraduate compsci student somewhere.
-- **Current interest (long term)**: Programming languages, logic, type theory
-- **Current interest (short term)**: Formal proofs, hardware design (FPGA stuff)
+- **Current interests**: Programming languages, FPGA 'hardware' design, RISC-V low-level software
 - :black_heart: dramming, always
