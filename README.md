@@ -1,3 +1,3 @@
-- Undergraduate compsci student somewhere.
-- **Current interests**: Programming languages, FPGA 'hardware' design, RISC-V low-level software
+- Undergraduate compsci student somewhere
+- Holder of superficial knowledge with questionable utility
 - :black_heart: dramming, always
