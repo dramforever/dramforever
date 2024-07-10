@@ -1,3 +1,3 @@
-- Compsci student somewhere
+- Compsci student somewhere?
 - Holder of superficial knowledge with questionable utility
 - :black_heart: dramming, always
