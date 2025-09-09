@@ -1,3 +1,3 @@
-- Compsci student somewhere
+- "Embedded" "Linux" developer somewhere
 - Holder of superficial knowledge with questionable utility
 - :black_heart: dramming, always
