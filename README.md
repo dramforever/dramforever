@@ -1,3 +1,3 @@
-- "Embedded" "Linux" developer somewhere
+- "Embedded" "Linux" "developer" somewhere
 - Holder of superficial knowledge with questionable utility
 - :black_heart: dramming, always
